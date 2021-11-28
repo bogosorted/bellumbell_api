@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: MyString
+  nickname: MyString
+  in_game: 1
+
+two:
+  username: MyString
+  nickname: MyString
+  in_game: 1
